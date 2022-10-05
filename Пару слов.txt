@@ -1,0 +1,2 @@
+***Читающему привет, провел небольшую аналитику + воспользовался ML библиотеками.***
+***Hello to the reader, I did some analytics + used ML libraries.***
